@@ -11,16 +11,16 @@ In this case the profit might differ for every startup on their decision of spen
 The model build is about 92% accurate in predicting the profit of a startup given their spending in different department.
 
 ## Toyota Corolla ---
-Dataset Description -
-Model -- model of the car
-Price  -- Offer Price in EUROs	
-Age_08_04 -- Age in months as in August 2004	
-Mfg_Month -- Manufacturing month (1-12)	
-Mfg_Year	-- Manufacturing Year
-KM -- Accumulated Kilometers on odometer
-Fuel_Type	 -- Fuel Type (Petrol, Diesel, CNG)
-HP -- Horse Power
-Met_Color	 -- Metallic Color?  (Yes=1, No=0)
+Dataset Description -                                                                                                                                                                     
+Model -- model of the car                                                                                                                                                                 
+Price  -- Offer Price in EUROs	                                                                                                                                                          
+Age_08_04 -- Age in months as in August 2004                                                                                                                                             
+Mfg_Month -- Manufacturing month (1-12)	                                                                                                                                                  
+Mfg_Year	-- Manufacturing Year                                                                                                                                                           
+KM -- Accumulated Kilometers on odometer                                                                                                                                                  
+Fuel_Type	 -- Fuel Type (Petrol, Diesel, CNG)                                                                                                                                             
+HP -- Horse Power                                                                                                                                                                     
+Met_Color	 -- Metallic Color?  (Yes=1, No=0)                                                                                                                                              
 Color -- Color (Blue, Red, Grey, Silver, Black, etc.)
 Automatic	-- Automatic ( (Yes=1, No=0)
 cc -- Cylinder Volume in cubic centimeters
