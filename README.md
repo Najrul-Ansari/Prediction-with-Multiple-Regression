@@ -11,7 +11,7 @@ In this case the profit might differ for every startup on their decision of spen
 The model build is about 92% accurate in predicting the profit of a startup given their spending in different department.
 
 ## Toyota Corolla ---
-
+Toyota Corolla dataset ia huge with 1436 rows and 38 columns but we were specified the columns on which we need to build our model, which eventually reduced the complexity in building the model. The model id quite accurate anf fit which can predict the price of a model on the basis of the required entry and gives a 87% accuracy rate.
 
 Dataset Description -                                                                                                                                                                     
 Model -- model of the car                                                                                                                                                                 
