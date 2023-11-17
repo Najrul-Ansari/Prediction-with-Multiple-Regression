@@ -11,6 +11,8 @@ In this case the profit might differ for every startup on their decision of spen
 The model build is about 92% accurate in predicting the profit of a startup given their spending in different department.
 
 ## Toyota Corolla ---
+
+
 Dataset Description -                                                                                                                                                                     
 Model -- model of the car                                                                                                                                                                 
 Price  -- Offer Price in EUROs	                                                                                                                                                          
