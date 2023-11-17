@@ -1,7 +1,7 @@
 # Prediction-with-Multiple-Regression
 
 ## Tools - 
-Jupyter notebook and
+Jupyter notebook,
 Python and its various libraries such as pandas, seaborn, matplotlib, sklearn,etc.
 
 ## 50 Startups ---
